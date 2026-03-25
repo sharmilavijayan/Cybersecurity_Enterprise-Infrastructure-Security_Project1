@@ -1,6 +1,6 @@
 # Cybersecurity
 **CybersecurityProjects**
-**Enterprise-Infrastructure-Security_Project1 - Securing Linux Servers Using SSH Honeypot Monitoring and IP Blocking**
+**Securing Linux Servers Using SSH Honeypot Monitoring and IP Blocking**
 
 
 **1. Introduction:**
