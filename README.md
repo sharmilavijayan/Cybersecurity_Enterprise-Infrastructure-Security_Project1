@@ -1,6 +1,7 @@
 # Cybersecurity
 CybersecurityProjects
-Enterprise-Infrastructure-Security_Project1 - Securing Linux Servers Using SSH Honeypot Monitoring and IP Blocking
+**Enterprise-Infrastructure-Security_Project1 - Securing Linux Servers Using SSH Honeypot Monitoring and IP Blocking**
+
 **1. Introduction:**
     Most of the organizations frequently face unauthorized access attempts from against internal
     Linux systems, particularly via the Secure Shell (SSH) service. These attacks often originate
